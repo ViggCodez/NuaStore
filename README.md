@@ -39,11 +39,6 @@ A responsive, functional mini e-commerce website built with React and Redux Tool
     npm run dev
     ```
 
-4.  **Run tests** (if applicable)
-    ```bash
-    npm test
-    ```
-
 ## Design Decisions & Trade-offs
 
 -   **Vanilla CSS vs Tailwind**: Chose Vanilla CSS to demonstrate core CSS skills and keep the bundle size small, as requested. Used CSS variables for consistent theming.
