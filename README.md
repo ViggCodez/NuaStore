@@ -1,4 +1,4 @@
-# Mini E-commerce Application
+# NUASTORE: Mini E-commerce Application
 
 A responsive, functional mini e-commerce website built with React and Redux Toolkit, consuming the Fake Store API.
 
@@ -25,7 +25,7 @@ A responsive, functional mini e-commerce website built with React and Redux Tool
 
 1.  **Clone the repository**
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/ViggCodez/NuaStore.git
     cd ecom-nua
     ```
 
